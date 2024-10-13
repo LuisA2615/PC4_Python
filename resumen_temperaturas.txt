@@ -1,0 +1,4 @@
+Estadística,Valor
+Promedio,17.830000000000002
+Máxima,22.0
+Mínima,13.9
